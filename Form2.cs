@@ -59,7 +59,7 @@ namespace Barbie
             lblStatus.Text = "Done!......";
             Form obj1 = new Igrica();
             obj1.Show();
-            } catch(Exseption e)
+            } catch(Exception e)
               {MessageBox.Show("Klikni start");}
 
         }

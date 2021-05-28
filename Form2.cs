@@ -40,7 +40,8 @@ namespace Barbie
             });
         }
         private async void btnStart_Click(object sender, EventArgs e)
-        {
+        {try
+           {
             List<string> list = new List<string>();
             for(int i=0; i < 1000; i++)
             {
@@ -58,6 +59,8 @@ namespace Barbie
             lblStatus.Text = "Done!......";
             Form obj1 = new Igrica();
             obj1.Show();
+            } catch(Exseption e)
+              {MessageBox.Show("Klikni start");}
 
         }
         private void PromenaLokacije(object sender, EventArgs e)

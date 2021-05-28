@@ -1,0 +1,13 @@
+C:\Users\Pc\source\repos\Barbie\Barbie\bin\Debug\Barbie.exe.config
+C:\Users\Pc\source\repos\Barbie\Barbie\bin\Debug\Barbie.exe
+C:\Users\Pc\source\repos\Barbie\Barbie\bin\Debug\Barbie.pdb
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.Form1.resources
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.Properties.Resources.resources
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.exe
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.pdb
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.Form2.resources
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.Igrica.resources
+C:\Users\Pc\source\repos\Barbie\Barbie\obj\Debug\Barbie.Poslednjiprozor.resources
